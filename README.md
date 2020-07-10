@@ -2,7 +2,7 @@
 I'm Maxence Lavenu, pressing buttons since 2005!
 
 Currently pursuing a degree in Web and Mobile development at the [Coding Factory by ITESCIA](https://codingfactory.fr). 💻 <br>
-I'm also working in Web development at [Vittascience](https://fr.vittascience.com). 🧪
+I'm also working in Web development at [Vittascience](https://vittascience.com). 🧪
 
 📫 How to reach me:
 - maxence.lavenu [at] outlook.fr
