@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 🙂
+I'm Maxence Lavenu, pressing buttons since 2005!
+
+Currently pursuing a degree in Web and Mobile development at the [Coding Factory by ITESCIA](https://codingfactory.fr). 💻 <br>
+I'm also working in Web development at [Vittascience](https://fr.vittascience.com). 🧪
+
+📫 How to reach me:
+- maxence.lavenu [at] outlook.fr
+- [LinkedIn](https://www.linkedin.com/in/maxence-lavenu/) 🧳
 
 <!--
 **maxencelav/maxencelav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
