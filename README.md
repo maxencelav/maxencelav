@@ -1,5 +1,4 @@
 ### Hello! 🙂
-I'm Maxence Lavenu, pressing buttons since 2005!
 
 Currently working in Web development at [Vittascience](https://vittascience.com). 🧪
 
