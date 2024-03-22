@@ -1,6 +1,6 @@
 ### Hello! 🙂
 
-Currently working in Web development at [Vittascience](https://vittascience.com). 🧪
+Currently working in Web development at [WSHOP](https://wshop.com). 🧪
 
 📫 How to reach me:
 - maxence.lavenu@outlook.fr
